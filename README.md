@@ -1,7 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcom%20To%20My%20Github%20&height=200&fontSize=70)
 
-<!--
-**ShinBangHo/ShinBangHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![BangHo GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinBangHo)](https://github.com/ShinBangHo/github-readme-stats)
+
+**ShinBangHo/ShinBangHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 사용 라이브러리
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
+
+<br/>
 
 Here are some ideas to get you started:
 
